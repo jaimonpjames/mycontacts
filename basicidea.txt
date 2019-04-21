@@ -1,2 +1,3 @@
 our contcats are our interested people.
 all people are not supposed to be so interested.
+there are different way to categorize people in contacts application.
